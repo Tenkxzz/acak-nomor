@@ -29,7 +29,7 @@ Tool berbasis Python yang berfungsi untuk mengacak nomor WhatsApp berdasarkan ko
 > Semua penggunaan kembali ke tanggung jawab user.
 
 ## 📸 Screenshots
-![alt text](https://github.com/asta0x/iptrace/blob/main/images/main_menu.jpg?raw=true)
+![alt text](?raw=true)
 
 ## 🚀 Instalasi
 ```bash
@@ -44,6 +44,8 @@ pkg install python-cryptography -y
 pkg install clang make openssl libffi
 
 pip install pycryptodome
+
+pip install requests phonenumbers colorama
 
 pkg install git
 
