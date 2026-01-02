@@ -49,7 +49,7 @@ pip install requests phonenumbers colorama
 
 pkg install git
 
-git clone https://github.com/asta0x/acak-nomor.git
+git clone https://github.com/Tenkxzz/acak-nomor.git
 
 cd acak-nomor
 
